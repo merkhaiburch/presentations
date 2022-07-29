@@ -1,0 +1,1 @@
+Poster video available on YouTube: [Merritt Burch - A meta GWAS reanalysis of twenty years of quantitative traits in maize](https://youtu.be/9lwoF-2EXDc)
