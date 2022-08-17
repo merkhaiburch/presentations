@@ -1,0 +1,3 @@
+## Systemic Analysis of Biological Data from an Isogenic Maize Line
+
+Vast amounts of data are generated in modern biological research, which creates a challenge to their analysis.  Here we use a combination of factor analysis and principal component analysis against morphological measurements taken from a collection of maize plants that are descended from a single doubled-haploid plant.  We are looking to identify relationships and structures within the data using uncorrelated subsets that explain much of the variability present. With these multivariate statistical techniques, we expect to summarize systematic patterns and complex relationships in our data and show that these analyses are useful in other biological research fields.
